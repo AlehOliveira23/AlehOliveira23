@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Aleeh Oliveira
 
-<!--
-**AlehOliveira23/AlehOliveira23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação  
+💻 Apaixonado por desenvolvimento de sistemas e soluções tecnológicas  
+🚀 Em busca de oportunidades para crescer na área de TI
 
-Here are some ideas to get you started:
+## 💡 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou focado em aprender e aplicar conhecimentos nas seguintes áreas:
+
+- Desenvolvimento Web (HTML, CSS, JavaScript)
+- Programação com Java e Spring Boot
+- Banco de Dados (SQL, H2, MySQL)
+- Versionamento com Git e GitHub
+- Fundamentos de Inteligência Artificial e Organização Financeira
+
+Estou sempre buscando novos desafios, projetos práticos e aprendizados que me preparem para o mercado de trabalho em tecnologia.
+
+## 📁 Meus Repositórios em Destaque
+
+- [Cronômetro](https://github.com/AlehOliveira23/Cronometro) — Projeto de cronômetro desenvolvido em JavaScript.
+- [Formulário com Validações](https://github.com/AlehOliveira23/FormularioJs) — Formulário com validações utilizando JavaScript e CSS.
+- [Controle Financeiro](https://github.com/AlehOliveira23/Controle-Fin) — Aplicação para controle financeiro pessoal.
+
+## 📫 Contato
+
+- GitHub: [github.com/AlehOliveira23](https://github.com/AlehOliveira23)
+
+---
+
+🔍 Estou aberto a oportunidades como estagiário ou trainee na área de TI.  
+Vamos crescer juntos com código, inovação e propósito!
