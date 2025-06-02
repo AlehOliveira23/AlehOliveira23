@@ -20,7 +20,7 @@ Estou sempre buscando novos desafios, projetos práticos e aprendizados que me p
 
 - [Cronômetro](https://github.com/AlehOliveira23/Cronometro) — Projeto de cronômetro desenvolvido em JavaScript.
 - [Formulário com Validações](https://github.com/AlehOliveira23/FormularioJs) — Formulário com validações utilizando JavaScript e CSS.
-- [Controle Financeiro](https://github.com/AlehOliveira23/Controle-Fin) — Aplicação para controle financeiro pessoal.
+- [Controle Financeiro](https://github.com/AlehOliveira23/Controle-Fin) — Aplicação para controle financeiro pessoal utilizando Node.js.
 
 ## 📫 Contato
 - Linkedln : [linkedln:AleandsonOliveiraGomes](https://www.linkedin.com/in/aleandson-oliveira-gomes-4153ba126).
