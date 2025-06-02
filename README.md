@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Aleeh Oliveira
 
-🎓 Estudante de Tecnologia da Informação  
+🎓 Estudante Analise de sistemas e suas tecnologias ;  
 💻 Apaixonado por desenvolvimento de sistemas e soluções tecnológicas  
 🚀 Em busca de oportunidades para crescer na área de TI
 
@@ -23,7 +23,7 @@ Estou sempre buscando novos desafios, projetos práticos e aprendizados que me p
 - [Controle Financeiro](https://github.com/AlehOliveira23/Controle-Fin) — Aplicação para controle financeiro pessoal.
 
 ## 📫 Contato
-
+- Linkedln : [linkedln:AleandsonOliveiraGomes](https://www.linkedin.com/in/aleandson-oliveira-gomes-4153ba126).
 - GitHub: [github.com/AlehOliveira23](https://github.com/AlehOliveira23)
 
 ---
